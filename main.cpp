@@ -1,15 +1,12 @@
 /**
- * Author: <YOUR NAME HERE>
- * Assignment: Project 1 - Simple 2D Scene
- * Date due: 2026-10-05, 11:59 PM
- *
- * I certify that I completed this assignment independently
- * in accordance with the NYU School of Engineering Policies
- * and Procedures on Academic Misconduct.
- **/
-
-// TODO: replace the header block above with the exact one from the
-// assignment handout before submitting.
+* Author: Jason Legarda
+* Assignment: Pong Clone
+* Date due: [10/05/2005]
+* I pledge that I have completed this assignment without
+* collaborating with anyone else, in conformance with the
+* NYU School of Engineering Policies and Procedures on
+* Academic Misconduct.
+**/
 
 #include "raylib.h"
 #include "CS3113/cs3113.h"
